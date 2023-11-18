@@ -1,17 +1,13 @@
-# capstonebeta-production
 
 
 
 
 
+## Capstone Beta CheckpointAlpha 
+# Harish Krishna Krishnamoorthy
+# so73977@umbc.edu
 
-
-
-# Capstone Beta CheckpointAlpha 
-#Harish Krishna Krishnamoorthy
-#so73977@umbc.edu
-
-#Status : Green
+### Status : Green
 
 
 
