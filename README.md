@@ -30,15 +30,14 @@
 
 
 
-Proposal Accepted date : Oct 19
-Date: 11-18-2023
-Project: Donation Website
-Status: Alpha
-Percentage of product functionality implemented: 100%
-Percentage of critical functions and features implemented: 100%
-Scope of improvements : yes 
-Percentage of features and functions with known defects and gaps: 30%
-Quality level for non-production use: The website can be used for a reasonable amount of time without crashing or failing, and it can handle a reasonable number of users. However, there are some known defects and gaps that need to be addressed before the website is ready for production use.
+###Proposal Accepted date : Oct 19
+###Date: 11-18-2023
+###Status: Alpha
+###Percentage of product functionality implemented: 100%
+###Percentage of critical functions and features implemented: 100%
+###Scope of improvements : yes 
+###Percentage of features and functions with known defects and gaps: 30%
+###Quality level for non-production use: The website can be used for a reasonable amount of time without crashing or failing, and it can handle a reasonable number of users. However, there are some known defects and gaps that need to be addressed before the website is ready for production use.
 Completed features:
 
 
@@ -86,15 +85,15 @@ Completed features:
 ##13.Amazing mobile viewable and responsive .
 <img width="1470" alt="Screenshot 2023-11-18 at 6 52 14 PM" src="https://github.com/umbckhitk/capstonebeta-production/assets/105472386/ddfdd8fe-fcfd-430f-bf91-95b32c3f1e52">
 
-Known defects and gaps:
+##Known defects and gaps:
 Improvisation of adding new features like messaging or emailing systems that lets people know. Expecting in the next iteration. 
 Deployment over heroku (paid) isnt working, but deployment in client server is working good. 
 
 
-Next steps:
+##Next steps:
 Testing the app from someone from the church and get feedback 
 Testing the app with more user base. 
 Deployment  of the app in the user base. 
 
 
-Overall, the donation website is in a good state for beta checkpoint. The most critical functions and features are implemented and completed, and the website is stable and reliable enough to be used by internal testers or early adopters. 
+##Overall, the donation website is in a good state for beta checkpoint. The most critical functions and features are implemented and completed, and the website is stable and reliable enough to be used by internal testers or early adopters. 
