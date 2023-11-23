@@ -3,7 +3,7 @@
 
 
 
-## Capstone Beta CheckpointAlpha 
+## Capstone Beta 
 # Harish Krishna Krishnamoorthy
 # so73977@umbc.edu
 
@@ -93,3 +93,47 @@ Deployment  of the app in the user base.
 
 
 ## Overall, the donation website is in a good state for beta checkpoint. The most critical functions and features are implemented and completed, and the website is stable and reliable enough to be used by internal testers or early adopters. 
+
+
+
+
+
+# Installation guide to run my Donate app.
+
+
+## Step 1
+### Download my beta production application : 
+
+
+
+
+### 2 . Unzip my application in any folder 
+
+### 3. Check for java installation on your computer
+
+
+
+
+### 4. Download eclipse of any version of “Eclipse IDE for Enterprise Java and Web Developers”  
+
+
+### 5. Import the unzip file by 
+### File-> import -> maven -> import existing maven project -> browse the folder and hit next. 
+
+### 6. Run the file called 
+### Donate -> src/main/java -> com.example.demo->loginAppAppllication.java by left clicking 
+### Run as a java application .
+
+
+
+
+### 7. Open http://localhost:8085/ 
+### to see my project. 
+
+### 8.trouble shoot : 
+### If this is giving a warning or error 
+
+### Hit the red square and 
+### Follow the step 6 again. 
+
+
